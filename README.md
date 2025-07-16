@@ -48,6 +48,9 @@ Predict whether a loan applicant will default and determine the optimal decision
 - Optimal cutoffs delivered >2x profitability vs naive thresholding
 - Visualizations for tree structure and confusion matrix aid interpretability
 - Logistic model included for business transparency benchmarking
+- Profit-centric decision making
+- Cost-sensitive cutoff tuning
+- Trade-off between interpretability and performance
 
 ---
 
@@ -66,11 +69,3 @@ Predict whether a loan applicant will default and determine the optimal decision
 - `loans.csv`: Input dataset (expected in same folder)
 
 ---
-
-## 🧠 Why This Project?
-
-This notebook simulates a real business-facing ML pipeline with:
-- Profit-centric decision making
-- Cost-sensitive cutoff tuning
-- Trade-off between interpretability and performance
-
